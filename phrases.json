@@ -1,0 +1,1142 @@
+[
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h1",
+    "text": "Sannu"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h2",
+    "text": "Ina kwana?"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h3",
+    "text": "Ina wuni?"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h4",
+    "text": "Na gode"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h5",
+    "text": "Don Allah"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h6",
+    "text": "Sai an jima"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h7",
+    "text": "Ɗaya"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h8",
+    "text": "Biyu"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h9",
+    "text": "Uku"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h10",
+    "text": "Huɗu"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h11",
+    "text": "Biyar"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h12",
+    "text": "Goma"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h13",
+    "text": "Ruwa"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h14",
+    "text": "Abinci"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h15",
+    "text": "Shinkafa"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h16",
+    "text": "Nama"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h17",
+    "text": "Nawa ne wannan?"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h18",
+    "text": "Ya yi tsada"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h19",
+    "text": "Ban gane ba"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "h20",
+    "text": "Sunana..."
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "letter_0",
+    "text": "ɓarawo"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "letter_1",
+    "text": "ɗaya"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "letter_2",
+    "text": "ƙofa"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "letter_3",
+    "text": "ʼyaʼya"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "letter_4",
+    "text": "tsuntsu"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "letter_5",
+    "text": "abinci"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "letter_6",
+    "text": "e"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "letter_7",
+    "text": "ina"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "letter_8",
+    "text": "sauka"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "letter_9",
+    "text": "uku"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "dial_0_0",
+    "text": "Sannu malam! Ina wuni?"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "dial_0_1",
+    "text": "Lafiya lau! Barka da zuwa! Me kake so?"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "dial_0_2",
+    "text": "Ina son wannan yadi. Nawa ne wannan?"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "dial_0_3",
+    "text": "Naira dubu biyar ne."
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "dial_0_4",
+    "text": "A'a, ya yi tsada! Don Allah rage min!"
+  },
+  {
+    "lang": "hausa",
+    "tl": "ha",
+    "id": "dial_0_5",
+    "text": "To, kawo dubu huɗu. Na gode!"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g1",
+    "text": "Hallo"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g2",
+    "text": "Guten Morgen"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g3",
+    "text": "Guten Tag"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g4",
+    "text": "Guten Abend"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g5",
+    "text": "Danke schön"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g6",
+    "text": "Bitte"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g7",
+    "text": "Tschüss"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g8",
+    "text": "Eins"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g9",
+    "text": "Zwei"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g10",
+    "text": "Drei"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g11",
+    "text": "Vier"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g12",
+    "text": "Fünf"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g13",
+    "text": "das Wasser"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g14",
+    "text": "das Brot"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g15",
+    "text": "der Kaffee"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g16",
+    "text": "Die Rechnung, bitte"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g17",
+    "text": "Ja / Nein"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g18",
+    "text": "Ich verstehe nicht"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g19",
+    "text": "Sprechen Sie Englisch?"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "g20",
+    "text": "Ich heiße..."
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "letter_0",
+    "text": "Äpfel"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "letter_1",
+    "text": "Öl"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "letter_2",
+    "text": "über"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "letter_3",
+    "text": "Straße"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "letter_4",
+    "text": "Wasser"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "letter_5",
+    "text": "Vogel"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "letter_6",
+    "text": "Ja"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "letter_7",
+    "text": "Zeit"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "letter_8",
+    "text": "Nein"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "letter_9",
+    "text": "Bier"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "dial_0_0",
+    "text": "Guten Morgen! Was darf es sein?"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "dial_0_1",
+    "text": "Guten Morgen! Ich hätte gerne eine Brezel und einen Kaffee, bitte."
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "dial_0_2",
+    "text": "Mit Milch und Zucker?"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "dial_0_3",
+    "text": "Nur mit Milch, bitte. Wie viel kostet das?"
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "dial_0_4",
+    "text": "Das macht vier Euro fünfzig, bitte."
+  },
+  {
+    "lang": "german",
+    "tl": "de",
+    "id": "dial_0_5",
+    "text": "Hier bitte. Vielen Dank und einen schönen Tag!"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l1",
+    "text": "Salvē!"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l2",
+    "text": "Salvēte!"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l3",
+    "text": "Valē!"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l4",
+    "text": "Quid agis?"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l5",
+    "text": "Grātiās tibi agō"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l6",
+    "text": "Quaesō"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l7",
+    "text": "Ūnus"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l8",
+    "text": "Duo"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l9",
+    "text": "Trēs"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l10",
+    "text": "Quattuor"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l11",
+    "text": "Quīnque"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l12",
+    "text": "Aqua"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l13",
+    "text": "Pānis"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l14",
+    "text": "Vīnum"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l15",
+    "text": "Domus"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l16",
+    "text": "Carpe diem"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l17",
+    "text": "Vēnī, vīdī, vīcī"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l18",
+    "text": "Amor vincit omnia"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l19",
+    "text": "Nōn intellegō"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "l20",
+    "text": "Nōmen mihi est..."
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "letter_0",
+    "text": "Cicero"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "letter_1",
+    "text": "Veni,"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "letter_2",
+    "text": "gens"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "letter_3",
+    "text": "Caesar"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "letter_4",
+    "text": "poena"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "letter_5",
+    "text": "ratio"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "letter_6",
+    "text": "rosa"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "letter_7",
+    "text": "Rōma"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "dial_0_0",
+    "text": "Salvē, Marce! Quid agis hodiē?"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "dial_0_1",
+    "text": "Salvē! Optimē valeō. Ad bibliothēcam eō."
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "dial_0_2",
+    "text": "Cūr tantum studēs? Carpe diem, amīce!"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "dial_0_3",
+    "text": "Vērum dīcis! Eāmus ad tabernam bibere vīnum."
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "dial_0_4",
+    "text": "Placet! In vīnō vēritās!"
+  },
+  {
+    "lang": "latin",
+    "tl": "la",
+    "id": "dial_0_5",
+    "text": "Ita vērō! Valē ad tempus!"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr1",
+    "text": "Γεια σου / Γεια σας"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr2",
+    "text": "Καλημέρα"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr3",
+    "text": "Καλησπέρα"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr4",
+    "text": "Ευχαριστώ"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr5",
+    "text": "Παρακαλώ"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr6",
+    "text": "Αντίο"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr7",
+    "text": "Ένα"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr8",
+    "text": "Δύο"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr9",
+    "text": "Τρία"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr10",
+    "text": "Τέσσερα"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr11",
+    "text": "Πέντε"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr12",
+    "text": "Νερό"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr13",
+    "text": "Ψωμί"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr14",
+    "text": "Καφές"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr15",
+    "text": "Το λογαριασμό, παρακαλώ"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr16",
+    "text": "Ναι / Όχι"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr17",
+    "text": "Δεν καταλαβαίνω"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr18",
+    "text": "Μιλάτε αγγλικά;"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr19",
+    "text": "Πού είναι...;"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "gr20",
+    "text": "Με λένε..."
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_0",
+    "text": "αγάπη"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_1",
+    "text": "βιβλίο"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_2",
+    "text": "γάλα"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_3",
+    "text": "δρόμος"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_4",
+    "text": "ευχαριστώ"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_5",
+    "text": "ζωή"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_6",
+    "text": "ήλιος"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_7",
+    "text": "θάλασσα"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_8",
+    "text": "ιστορία"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_9",
+    "text": "καφές"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_10",
+    "text": "λεμόνι"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_11",
+    "text": "μέλι"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_12",
+    "text": "νερό"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_13",
+    "text": "ξένος"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_14",
+    "text": "όνομα"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_15",
+    "text": "παιδί"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_16",
+    "text": "ρολόι"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_17",
+    "text": "σπίτι"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_18",
+    "text": "τραπέζι"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_19",
+    "text": "ύπνος"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_20",
+    "text": "φίλος"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_21",
+    "text": "χρόνος"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_22",
+    "text": "ψωμί"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "letter_23",
+    "text": "ώρα"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "dial_0_0",
+    "text": "Καλησπέρα σας! Ένα τραπέζι για δύο;"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "dial_0_1",
+    "text": "Καλησπέρα! Ναι, παρακαλώ, κοντά στο παράθυρο."
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "dial_0_2",
+    "text": "Ορίστε! Τι θα θέλατε να πιείτε;"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "dial_0_3",
+    "text": "Ένα μπουκάλι νερό και μία χωριάτικη σαλάτα, παρακαλώ."
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "dial_0_4",
+    "text": "Πολύ ωραία! Και για κυρίως πιάτο;"
+  },
+  {
+    "lang": "greek",
+    "tl": "el",
+    "id": "dial_0_5",
+    "text": "Σουβλάκι με πατάτες! Ευχαριστώ πολύ!"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f1",
+    "text": "Bonjour"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f2",
+    "text": "Bonsoir"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f3",
+    "text": "Salut"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f4",
+    "text": "Merci beaucoup"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f5",
+    "text": "S'il vous plaît"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f6",
+    "text": "Au revoir"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f7",
+    "text": "Un"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f8",
+    "text": "Deux"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f9",
+    "text": "Trois"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f10",
+    "text": "Quatre"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f11",
+    "text": "Cinq"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f12",
+    "text": "de l'eau"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f13",
+    "text": "le pain"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f14",
+    "text": "le café"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f15",
+    "text": "L'addition, s'il vous plaît"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f16",
+    "text": "Oui / Non"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f17",
+    "text": "Je ne comprends pas"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f18",
+    "text": "Parlez-vous anglais ?"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f19",
+    "text": "Où est... ?"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "f20",
+    "text": "Je m'appelle..."
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "letter_0",
+    "text": "café"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "letter_1",
+    "text": "mère"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "letter_2",
+    "text": "fête"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "letter_3",
+    "text": "français"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "letter_4",
+    "text": "Noël"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "letter_5",
+    "text": "rouge"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "letter_6",
+    "text": "salut"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "letter_7",
+    "text": "bon"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "letter_8",
+    "text": "France,"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "dial_0_0",
+    "text": "Bonjour monsieur ! Vous avez choisi ?"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "dial_0_1",
+    "text": "Bonjour ! Oui, je voudrais un café crème et un croissant, s'il vous plaît."
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "dial_0_2",
+    "text": "Très bien. Et avec ceci ?"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "dial_0_3",
+    "text": "Ce sera tout, merci beaucoup !"
+  },
+  {
+    "lang": "french",
+    "tl": "fr",
+    "id": "dial_0_4",
+    "text": "Parfait, je vous apporte ça tout de suite."
+  }
+]
